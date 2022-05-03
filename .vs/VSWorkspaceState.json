@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blog",
+    "\\blog\\src",
+    "\\blog\\src\\components",
+    "\\blog\\src\\components\\Header",
+    "\\blog\\src\\images",
+    "\\blog\\src\\pages",
+    "\\blog\\src\\templates"
+  ],
+  "SelectedNode": "\\blog\\src\\components\\Header\\Header.js",
+  "PreviewInSolutionExplorer": false
+}
